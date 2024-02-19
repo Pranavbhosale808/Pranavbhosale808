@@ -2,7 +2,7 @@
 ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[PRANAV BHOSALE](https://github.com/pranavbhosale808) <img src="./img/wave.gif" width="30px" height="30px" />
 <img  alt="Coding" width="400" src="https://github.com/Pranavbhosale808/Pranavbhosale808/blob/main/thoughtworks-gif_dribbble.gif" align="right">
 
-- 🌱 I’m currently learning **React ,MongoDB**
+- 🌱 I’m currently learning **BLOCKCHAIN**
 
 - 💬 Ask me about **react , node**
 
