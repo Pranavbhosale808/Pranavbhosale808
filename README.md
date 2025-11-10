@@ -2,9 +2,9 @@
 ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[PRANAV BHOSALE](https://github.com/pranavbhosale808) <img src="./img/wave.gif" width="30px" height="30px" />
 <img  alt="Coding" width="400" src="https://github.com/Pranavbhosale808/Pranavbhosale808/blob/main/thoughtworks-gif_dribbble.gif" align="right">
 
-- 🌱 I’m currently learning **Solidty & Smart Contract**
+- 🌱 I’m currently learning **Spring boot**
 
-- 💬 Ask me about **react , node**
+- 💬 Ask me about **python,node**
 
 - 📫 How to reach me **pranavbhosale04@gmail.com**
 
